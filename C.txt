@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola master
+=======
+Hola b02
+>>>>>>> b02
